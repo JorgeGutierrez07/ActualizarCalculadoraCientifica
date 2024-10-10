@@ -1,0 +1,51 @@
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.exe
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.deps.json
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.runtimeconfig.json
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.Form1.resources
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.Properties.Resources.resources
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfoInputs.cache
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfo.cs
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\refint\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.genruntimeconfig.cache
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraWindows\obj\Debug\net8.0-windows\ref\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraWindows.exe
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraWindows.deps.json
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraWindows.runtimeconfig.json
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.Form1.resources
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.Properties.Resources.resources
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfoInputs.cache
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfo.cs
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\refint\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraWindows.genruntimeconfig.cache
+C:\Users\joruw\Desktop\8vo Semestre\Desarrollo de Modelos\CalculadoraCientifica\obj\Debug\net8.0-windows\ref\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\CalculadoraCientifica2\bin\Debug\net8.0-windows\CalculadoraWindows.exe
+C:\Users\joruw\Desktop\CalculadoraCientifica2\bin\Debug\net8.0-windows\CalculadoraWindows.deps.json
+C:\Users\joruw\Desktop\CalculadoraCientifica2\bin\Debug\net8.0-windows\CalculadoraWindows.runtimeconfig.json
+C:\Users\joruw\Desktop\CalculadoraCientifica2\bin\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\CalculadoraCientifica2\bin\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.Form1.resources
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.Properties.Resources.resources
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfoInputs.cache
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfo.cs
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\refint\CalculadoraWindows.dll
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\CalculadoraWindows.genruntimeconfig.cache
+C:\Users\joruw\Desktop\CalculadoraCientifica2\obj\Debug\net8.0-windows\ref\CalculadoraWindows.dll
